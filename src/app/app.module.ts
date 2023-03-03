@@ -7,6 +7,8 @@ import { RouterModule } from '@angular/router';
 import { PoTemplatesModule } from '@po-ui/ng-templates';
 import { ProtheusLibCoreModule } from '@totvs/protheus-lib-core';
 
+import { CalculadoraModule } from './calculadora';
+
 @NgModule({
   declarations: [
     AppComponent
